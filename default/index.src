@@ -1,0 +1,50 @@
+﻿<link rel="stylesheet" href="css/default.css">
+
+<h1>Default Spec</h1>
+
+<div class="source_info">
+
+    <p>This spec is rendered out of <code>index.src</code>.</p>
+
+    <p>
+        Wrapper view with linked Boostrap CSS styles is taken from <code>doc.ejs</code> <a href="https://github.com/sourcejs/Source/blob/master/core/views/doc.ejs">file</a>, which is configured in Spec's <code>info.json</code>.
+    </p>
+
+    <p>View this Spec <a href="index.src">source code</a>.</p>
+</div>
+
+<section class="source_section">
+    <h2>Basic button</h2>
+
+    <p>Button description.</p>
+
+    <div class="source_example">
+        <a href="#777" class="btn btn-primary">Button</a>
+    </div>
+</section>
+
+<section class="source_section">
+    <h2>Button group</h2>
+
+    <p>Button group description.</p>
+
+    <code class="src-html source_visible"></code>
+    <div class="source_example">
+        <div class="btn-group">
+            <button class="btn btn-default">Left</button>
+            <button class="btn btn-default">Middle</button>
+            <button class="btn btn-default">Right</button>
+        </div>
+    </div>
+</section>
+
+<section class="source_section">
+    <h2>Custom button</h2>
+
+    <p>Style for this button are from linked Spec CSS file <code>css/markdown.css</code>.</p>
+
+    <code class="src-html source_visible"></code>
+    <div class="source_example">
+        <a href="#777" class="default-btn">Modified Button</a>
+    </div>
+</section>

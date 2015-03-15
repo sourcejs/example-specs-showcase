@@ -1,0 +1,22 @@
+<div class="source_subhead">
+    <h1>Examples Specs</h1>
+    <div class="source_catalog_tx">
+        <p>This Spec catalogue features showcase of SourceJS features and it's plugins. View <a class="source-a_a" href="https://github.com/sourcejs/examples">source code</a> of this library to compare it with rendered results.</p>
+
+        <p>Navigation pages like this, are hand crafted, following <a href="http://sourcejs.com/docs/data-nav" class="source-a_a">Data Nav API</a>.</p>
+    </div>
+</div>
+
+<div class="source_catalog" data-nav="/specs/examples" data-tag="without-tag">
+    <h2>Native Specs</h2>
+    <ul class="source_catalog_list">
+        <img src="/source/assets/i/process.gif" alt="Loading..."/>
+    </ul>
+</div>
+
+<div class="source_catalog" data-nav="/specs/examples" data-tag="plugins">
+    <h2>Rendered With Plugins</h2>
+    <ul class="source_catalog_list">
+        <img src="/source/assets/i/process.gif" alt="Loading..."/>
+    </ul>
+</div>

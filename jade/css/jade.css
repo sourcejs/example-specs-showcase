@@ -1,0 +1,14 @@
+.jade-btn {
+    display: inline-block;
+    padding: 10px;
+    background: #73c051;
+    border-radius: 3px;
+    color: #fff;
+    text-decoration: none;
+    }
+
+.jade-btn:hover {
+    background: #309124;
+    color: #fff;
+    text-decoration: none;
+    }

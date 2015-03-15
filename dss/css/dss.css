@@ -1,0 +1,54 @@
+/**
+  * @name Basic button
+  *
+  * @description Button description.
+  *
+  * @markup
+  *   <a href="#777" class="btn btn-primary">Button</a>
+  */
+
+/* Original CSS taken from Boostrap */
+.btn {}
+
+/**
+  * @name Button group
+  *
+  * @description Button group description.
+  *
+  * @markup
+  *   <div class="btn-group">
+  *      <button class="btn btn-default">Left</button>
+  *      <button class="btn btn-default">Middle</button>
+  *      <button class="btn btn-default">Right</button>
+  *   </div>
+  */
+
+/* Original CSS taken from Boostrap */
+.btn-group {}
+
+/**
+  * @name DSS button
+  *
+  * @description DSS button with auto-generated states.
+  *
+  * @state :hover - Hovered button (auto-generated with pseudo class).
+  *
+  * @markup
+  *   <a href="#777" class="dss-btn">DSS Button</a>
+  */
+
+.dss-btn {
+    display: inline-block;
+    padding: 10px;
+    background: #73c051;
+    border-radius: 3px;
+    color: #fff;
+    text-decoration: none;
+    }
+
+.dss-btn.pseudo-class-hover,
+.dss-btn:hover {
+    background: #309124;
+    color: #fff;
+    text-decoration: none;
+    }
