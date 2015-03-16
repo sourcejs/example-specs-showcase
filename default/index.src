@@ -10,7 +10,7 @@
         Wrapper view with linked Boostrap CSS styles is taken from <code>doc.ejs</code> <a href="https://github.com/sourcejs/Source/blob/master/core/views/doc.ejs">file</a>, which is configured in Spec's <code>info.json</code>.
     </p>
 
-    <p>View this Spec <a href="index.src">source code</a>.</p>
+    <p>View this Spec <a href="https://github.com/sourcejs/examples/blob/master/default/index.src">source code</a>.</p>
 </div>
 
 <section class="source_section">

@@ -6,7 +6,7 @@ This spec is rendered out of `readme.md`.
 
 Wrapper view with linked Boostrap CSS styles is taken from `doc.ejs` [file](https://github.com/sourcejs/Source/blob/master/core/views/doc.ejs), which is configured in Spec's `info.json`.
 
-View this Spec [source code](readme.md).
+View this Spec [source code](https://github.com/sourcejs/examples/blob/master/markdown/readme.md).
 
 ## Basic button
 
