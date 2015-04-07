@@ -1,5 +1,7 @@
 # SourceJS Spec Page Showcase
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/sourcejs/Source)
+
 View source code of component folders (`/default`, `/jade` and etc) and compare them with [rendered output](http://sourcejs.com/specs/example-specs-showcase/).
 
 Examples are made for SourceJS 0.5.1+ version.
