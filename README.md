@@ -9,7 +9,7 @@ Examples are made for SourceJS 0.5.1+ version.
 ## Setup Instructions
 
 1. [Install SourceJS](http://sourcejs.com/docs/base/#install).
-2. Install SourceJS plugins [sourcejs-contrib-dss](http://github.com/sourcejs/sourcejs-contrib-dss), [sourcejs-jade](http://github.com/sourcejs/sourcejs-jade).
+2. Install SourceJS plugins [sourcejs-contrib-dss](http://github.com/sourcejs/sourcejs-contrib-dss), [sourcejs-jade](http://github.com/sourcejs/sourcejs-jade), [sourcejs-react](http://github.com/szarouski/sourcejs-react).
 3. Checkout this repo contents as a nested folder in `sourcejs/user/specs`:
 
 ```
