@@ -4,7 +4,7 @@
 
 View source code of component folders (`/default`, `/jade` and etc) and compare them with [rendered output](http://sourcejs.com/specs/example-specs-showcase/).
 
-Examples are made for SourceJS 0.5.1+ version.
+Examples are made for SourceJS 0.5.3+ version.
 
 ## Setup Instructions
 
