@@ -7,8 +7,6 @@ module.exports = React.createClass({
             <div>
                 <link href="css/react.css" rel="stylesheet"/>
 
-                <h1>React Spec</h1>
-
                 <div className="source_info">
                     <p>This spec is rendered out of <code>index.jsx</code> file using <a href="http://github.com/szarouski/sourcejs-react">sourcejs-react</a> plugin.
                     </p>

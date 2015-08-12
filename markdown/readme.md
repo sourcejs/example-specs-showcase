@@ -1,6 +1,6 @@
-﻿<link rel="stylesheet" href="css/markdown.css">
-
-# Markdown Spec
+﻿<head>
+  <link rel="stylesheet" href="css/markdown.css">
+</head>
 
 This spec is rendered out of `readme.md`.
 
