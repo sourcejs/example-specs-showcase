@@ -8,7 +8,7 @@ module.exports = React.createClass({
                 <link href="css/react.css" rel="stylesheet"/>
 
                 <div className="source_info">
-                    <p>This spec is rendered out of <code>index.jsx</code> file using <a href="http://github.com/szarouski/sourcejs-react">sourcejs-react</a> plugin.
+                    <p>This spec is rendered out of <code>index.jsx</code> file using <a href="https://github.com/szarouski/sourcejs-react">sourcejs-react</a> plugin.
                     </p>
                     <p>Wrapper view with linked Boostrap CSS styles is taken from <code>doc.ejs</code> <a
                         href="https://github.com/sourcejs/Source/blob/master/core/views/doc.ejs">file</a>, which is
